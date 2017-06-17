@@ -1,0 +1,27 @@
+{
+  "name": "saying_hello",
+  "version": "1.0.0",
+  "description": "A program that prompts for your name and prints a greeting",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^3.4.2",
+    "chai": "*"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exchai93/hello_javascript.git"
+  },
+  "author": "Emily Chai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exchai93/hello_javascript/issues"
+  },
+  "homepage": "https://github.com/exchai93/hello_javascript#readme"
+}
